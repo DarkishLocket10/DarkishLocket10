@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yash Patel, AKA @DarkishLocket10
-- 👀 I’m interested in AI, Software Development, Cyber Security, and Data Analytics!
+- 👀 I’m interested in Machine Learning, Software Development, Cyber Security, and Data Analytics!
 - 💞️ I’m looking to collaborate on anything I can get my hands on :)
 - 📫 You can reach me on  Discord @ DarkishLocket10#6834, [Twitter](https://twitter.com/YashNilayPatel) and by my [email](mailto:yashnilay@gmail.com)! 
 
