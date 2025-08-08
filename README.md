@@ -1,9 +1,22 @@
-- 👋 Hi, I’m Yash Patel, AKA @DarkishLocket10
-- 👀 I’m interested in Machine Learning, Software Development, Cyber Security, and Data Analytics!
-- 💞️ I’m looking to collaborate on anything I can get my hands on :)
-- 📫 You can reach me on  Discord @ DarkishLocket10#6834, [Twitter](https://twitter.com/YashNilayPatel) and by my [email](mailto:yashnilay@gmail.com)! 
+# ✨ Hey, I’m Yash!
 
-<!---
-DarkishLocket10/DarkishLocket10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Computer Scientist from Sault Ste. Marie, Ontario 
+🗣️ Passionate about Machine Learning • Software Development • Data Analytics  
+
+---
+
+### 🚀 Highlights
+- **Photo-Triage C++** → Smart photo organization: [Repo](https://github.com/DarkishLocket10/phototriage_cpp)  
+- **Break-Check** → Gentle reminders to keep you healthy while you code  
+
+---
+
+### 📫 Let’s Connect
+- **Discord**: DarkishLocket10 
+- **Website**: [yashnilay.ca](https://yashnilay.ca)
+- **Photography**: [photos.yashnilay.ca](https://photos.yashnilay.ca)
+- **LinkedIn**: [yash-n-patel](https://www.linkedin.com/in/yash-n-patel/)
+
+---
+
+💡 Always up for cool collaborations. I'm probs down if it looks cool :)
