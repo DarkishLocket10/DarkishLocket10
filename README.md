@@ -7,8 +7,9 @@
 
 ### 🚀 Highlights
 - **Photo-Triage C++** → Smart photo organization: [Repo](https://github.com/DarkishLocket10/phototriage_cpp)  
-- **Break-Check** → Gentle reminders to keep you healthy while you code  
-
+- **Break-Check** → Gentle reminders to keep you healthy while you code
+- **My Website** → Learn about me, and check out my blog!
+  
 ---
 
 ### 📫 Let’s Connect
